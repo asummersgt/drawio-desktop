@@ -1,6 +1,8 @@
 About
 ----- 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8d65fabd0d43412f95a54189835cea40)](https://app.codacy.com/gh/asummersgt/drawio-desktop?utm_source=github.com&utm_medium=referral&utm_content=asummersgt/drawio-desktop&utm_campaign=Badge_Grade_Settings)
+
 **drawio-desktop** is a diagramming and whiteboarding desktop app based on [Electron](https://electronjs.org/) that wraps the [core draw.io editor](https://github.com/jgraph/drawio).
 
 Download built binaries from the [releases section](https://github.com/jgraph/drawio-desktop/releases).
